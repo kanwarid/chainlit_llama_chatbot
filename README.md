@@ -4,7 +4,7 @@ Usage: chainlit run app.py -w
 * Project Description
   * Uses Chainlit UI Frontend for ChatBot
   * Uses llama3.1:latest LLM
-  * Structured Prompts using the ![CO-STAR framework](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
+  * Structured Prompts using the [CO-STAR framework](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
   * Prompt has been instructed to take on personality of financial planner
 
 * Inital Chat Window
