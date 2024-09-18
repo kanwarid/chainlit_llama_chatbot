@@ -48,7 +48,7 @@ async def set_starters():
 
         cl.Starter(
             label="Tell me a Finance Joke",
-            message="Give me tow liner funny joke with finanance learning",
+            message="Give me two liner funny joke with finanance learning",
             #icon="/public/learn.svg",
             ),
         cl.Starter(
